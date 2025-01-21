@@ -1,0 +1,114 @@
+{
+    "apim-request-id": "c3a8dea5-440f-4db4-a83b-025184eceaf4",
+    "content-length": "1328",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "denseCaptionsResult": {
+      "values": [
+        {
+          "text": "a man wearing a helmet and standing in front of a building",
+          "confidence": 0.8326466679573059,
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "w": 1200,
+            "h": 1600
+          }
+        },
+        {
+          "text": "a person wearing a blue shirt",
+          "confidence": 0.7619050145149231,
+          "boundingBox": {
+            "x": 70,
+            "y": 814,
+            "w": 284,
+            "h": 727
+          }
+        },
+        {
+          "text": "a circular object with a circular pattern",
+          "confidence": 0.6260706186294556,
+          "boundingBox": {
+            "x": 411,
+            "y": 363,
+            "w": 164,
+            "h": 204
+          }
+        },
+        {
+          "text": "a man standing in front of a building",
+          "confidence": 0.8867115378379822,
+          "boundingBox": {
+            "x": 95,
+            "y": 26,
+            "w": 1081,
+            "h": 1090
+          }
+        },
+        {
+          "text": "a sign on a pole",
+          "confidence": 0.6989220380783081,
+          "boundingBox": {
+            "x": 423,
+            "y": 786,
+            "w": 93,
+            "h": 305
+          }
+        },
+        {
+          "text": "a sign with a letter on it",
+          "confidence": 0.7237387299537659,
+          "boundingBox": {
+            "x": 343,
+            "y": 802,
+            "w": 73,
+            "h": 93
+          }
+        },
+        {
+          "text": "a man wearing a mask",
+          "confidence": 0.819456934928894,
+          "boundingBox": {
+            "x": 73,
+            "y": 925,
+            "w": 267,
+            "h": 278
+          }
+        },
+        {
+          "text": "a person standing on a dirt field",
+          "confidence": 0.711391806602478,
+          "boundingBox": {
+            "x": 0,
+            "y": 1081,
+            "w": 1173,
+            "h": 498
+          }
+        },
+        {
+          "text": "a black sign on a white wall",
+          "confidence": 0.7003204226493835,
+          "boundingBox": {
+            "x": 576,
+            "y": 378,
+            "w": 180,
+            "h": 143
+          }
+        },
+        {
+          "text": "a close up of a black boot",
+          "confidence": 0.8099094033241272,
+          "boundingBox": {
+            "x": 116,
+            "y": 1469,
+            "w": 69,
+            "h": 64
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "width": 1200,
+      "height": 1600
+    }
+  }
